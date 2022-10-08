@@ -1,0 +1,26 @@
+ul{
+    margin:30,20;
+    padding:0;
+    list-style: none;
+    height: 36px;
+    line-height: 36px;
+    background-color: black;
+    font-family: 'Times New Roman', Times, serif;
+}
+li{
+    float: left;
+    border-right: 1px solid #B73215;
+
+} 
+a{
+    display: block;
+    padding: 0 28px;
+    color: #ffff;
+    text-decoration: none;
+}
+a:hover,.active a{
+    background-color:orange;
+}
+.search{
+    float: right;
+}
