@@ -1,5 +1,14 @@
+body{background-image: 
+    url("images/college_campus.jpeg");
+    background-repeat: no-repeat;
+    background-size:cover;
+    
+   
+
+}
+
 ul{
-    margin:30,20;
+    margin:30px,20px;
     padding:0;
     list-style: none;
     height: 36px;
@@ -7,18 +16,19 @@ ul{
     background-color: black;
     font-family: 'Times New Roman', Times, serif;
 }
-li{
+ul li{
     float: left;
     border-right: 1px solid #B73215;
+    text-align: center;
 
 } 
-a{
+ul li a{
     display: block;
     padding: 0 28px;
     color: #ffff;
     text-decoration: none;
 }
-a:hover,.active a{
+ul li a:hover,.active a{
     background-color:orange;
 }
 .search{
