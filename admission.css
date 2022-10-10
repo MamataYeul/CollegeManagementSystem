@@ -1,0 +1,171 @@
+/************************* header section ***************************/
+.head1 {
+    /* background-color: pink; */
+    height: 170px;
+    width: 20%;
+    float: left;
+}
+
+.head2 {
+    /* background-color: red; */
+    height: 170px;
+    width: 60%;
+    float: left;
+}
+
+.head3 {
+    /* background-color: orange; */
+    height: 170px;
+    width: 20%;
+    float: left;
+}
+
+.im1 {
+    height: 170px;
+    width: 60%;
+    margin-left: 20px;
+}
+
+.im2 {
+    height: 60px;
+    width: 60%;
+    margin-left: 140px;
+    margin-top: 40px;
+}
+
+.im3 {
+    height: 170px;
+    width: 80%;
+    margin-left: 20px;
+    margin-top: 10px;
+}
+
+/********************iit section **************************/
+.i1 {
+    background-color: orange;
+    height: 30px;
+    width: 100%;
+    float: left;
+    margin-top: 10px;
+}
+
+.i11 {
+    background-color: orange;
+    height: 30px;
+    width: 30%;
+    float: left;
+    border-right: 1px solid white;
+}
+
+.i11 p {
+    margin-top: 3px;
+    margin-left: 4px;
+    font-weight: bold;
+}
+
+.i11 span {
+    text-decoration: underline;
+    font-weight: bold;
+    color: rgb(85, 26, 139);
+}
+
+.i12 {
+    background-color: orange;
+    height: 30px;
+    width: 69%;
+    float: left;
+
+}
+
+.i12 p {
+    margin-top: 3px;
+    margin-left: 400px;
+    font-weight: bold;
+    color: blue;
+    text-decoration: underline;
+}
+
+.i12 span {
+    text-decoration: underline;
+    font-weight: bold;
+    color: rgb(85, 26, 139);
+}
+
+/******************** body section **************************/
+.body1 {
+    /* background-color: red; */
+    height: 500px;
+    width: 100%;
+    float: left;
+    margin-top: 5px;
+}
+
+.b1 {
+    /* background-color: blue; */
+    height: 500px;
+    width: 25%;
+    float: left;
+
+}
+
+.b2 {
+    /* background-color: green; */
+    height: 500px;
+    width: 75%;
+    float: left;
+
+}
+
+.list {
+    color: white;
+    font-weight: bold;
+    list-style-type: none;
+    width: 80%;
+    margin: 0;
+    padding: 0;
+}
+
+.list li {
+    color: white;
+    font-weight: bold;
+    list-style-type: none;
+    padding: 15px;
+    text-align: left;
+    border-bottom: 1px solid white;
+    background-color: rgb(67, 40, 92);
+}
+
+.list li a {
+    color: white;
+    font-weight: bold;
+    text-decoration: none;
+    margin-left: 30px;
+    text-align: center;
+
+}
+
+.list li:hover {
+    background-color: rgb(241, 150, 165);
+
+}
+
+.heading {
+    /* background-color: aquamarine; */
+    margin-left: 400px;
+    width: 40%;
+}
+
+.unoder {
+    /* background-color: aquamarine; */
+    width: 90%;
+    height: 160px;
+    float: left;
+}
+
+.unoder1 {
+    /* background-color: aquamarine; */
+    margin-top: 20px;
+    width: 90%;
+    height: 160px;
+    float: left;
+}
